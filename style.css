@@ -56,3 +56,11 @@ body {
 }
 
 /* sign in end */
+/* Sign up */
+.signup-form {
+  width: 40%;
+}
+.col {
+  margin-bottom: 20px;
+}
+/* Sign up end */
